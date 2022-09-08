@@ -13,7 +13,7 @@ import {
   requestCityData,
   requestCountryData,
   requestStateData,
-} from './src/service/methdos';
+} from './src/service/methods';
 
 const url = 'https://api.countrystatecity.in/v1/countries';
 
